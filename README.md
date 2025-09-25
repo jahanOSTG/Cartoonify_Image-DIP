@@ -38,20 +38,18 @@ Here’s the step-by-step process I implemented:
 
 ## 🖼️ Output Example
 
-| Original Image | Edges Detected | Cartoonified Image |
-|----------------|----------------|--------------------|
-| ![original](example/original.jpg) | ![edges](example/edges.jpg) | ![cartoon](example/cartoon.jpg) |
+<img width="619" height="203" alt="image" src="https://github.com/user-attachments/assets/4bb51c80-8152-44ba-a093-2853fdf9752f" />
+
 
 ---
+## 🌟 Future Ideas
 
-## 🚀 How to Run
+- 🎥 **Real-time cartoonify with webcam feed**  
+  Capture live video from webcam and apply cartoon effect in real-time.  
 
-### Option 1: Google Colab (Easy)
-1. Open [Google Colab](https://colab.research.google.com/)  
-2. Upload your photo (e.g., `flower.jpg`)  
-3. Copy-paste the notebook code  
-4. Run → Enjoy your cartoonified image 🎉  
+- 🎨 **Add creative filters (Pencil Sketch / Comic Strip)**  
+  Extend the project with extra artistic filters for more fun.  
 
-### Option 2: Local Machine
-```bash
-pip install opencv-python numpy matplotlib
+- 📱 **Deploy as a mobile or web app**  
+  Make the project interactive by turning it into a simple app for users.  
+
